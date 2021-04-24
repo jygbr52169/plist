@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.79.115.148/Asuo_e_dev_last.ipa</string>
+					<string>http://103.46.12.38/lhj_i.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Asuo.ASuo-e</string>
+				<string>com.chess.tt</string>
 				<key>bundle-version</key>
-				<string>1.9</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>A索老师测试旧</string>
+				<string>老伙计</string>
 			</dict>
 		</dict>
 	</array>
